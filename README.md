@@ -31,3 +31,5 @@
 |과목명|점수|
 |----|---|
 |<font color=red>GIT<font>|A+|
+
+![git hub page](캡처.png)
