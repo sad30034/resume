@@ -32,4 +32,5 @@
 |----|---|
 |<font color=red>GIT<font>|A+|
 
-![git hub page](캡처.png)
+![git hub page](캡처.PNG)
+<img src=캡처.PNG width=100 height=100>
