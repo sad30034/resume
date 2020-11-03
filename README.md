@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-![git hub page](캡처.PNG)
+![git hub page](profile.jpg)
 김민지
 ---
 소속: 소프트웨어융합대학   
